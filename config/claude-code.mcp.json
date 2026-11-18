@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "creativly": {
+      "type": "http",
+      "url": "https://mcp.creativly.ai/mcp"
+    }
+  }
+}

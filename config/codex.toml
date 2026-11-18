@@ -1,0 +1,3 @@
+# Merge into your existing Codex configuration; no credentials belong here.
+[mcp_servers.creativly]
+url = "https://mcp.creativly.ai/mcp"

@@ -1,0 +1,14 @@
+# Local notebooks, Python and test caches (all directory depths)
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+.venv/
+venv/
+# Credentials and local generated outputs
+.env
+.env.*
+outputs/
+coverage/
+.DS_Store
